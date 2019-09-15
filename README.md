@@ -1,7 +1,5 @@
 <h1>WiFi Analyzer <img src="images/icon.png" alt="Application Icon" width="45" height="45"></h1>
 
-This is a fork of https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer to be able to provide Dutch translations.
-
 ### News: We are happy to announce that Android Authority recently selected WiFi Analyzer to be one of the 15 most useful apps for Android, [click here](https://www.androidauthority.com/most-useful-apps-for-android-603100/amp) to learn more about it!
 
 Optimize your WiFi network using WiFi Analyzer by examining surrounding WiFi networks, measuring their signal strength as well as identifying crowded channels.
